@@ -13,7 +13,7 @@
 
 5- npm run devStart
 
-Go to : script.js and "CREATE/UPDATE/FIND/DELETE" your data
+"CREATE/UPDATE/FIND/DELETE" your data (walletAddress & slackID)
 
 ..........................................................................
 
