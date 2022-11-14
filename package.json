@@ -1,0 +1,20 @@
+{
+  "name": "transactionchecker-slack-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^6.7.2",
+    "mongoose": "^6.7.1",
+    "slack": "^11.0.2",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
